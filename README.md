@@ -108,8 +108,8 @@ A short description of your third project.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kosinachi&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosinachi&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 ---
@@ -117,7 +117,7 @@ A short description of your third project.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kosinachi" alt="GitHub Streak"/>
 </p>
 
 ---
