@@ -31,10 +31,10 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/kosinachi">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/kosisochukwu-ugochukwu">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourusername">
