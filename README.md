@@ -37,8 +37,8 @@
   <a href="https://linkedin.com/in/kosisochukwu-ugochukwu">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter"/>
+  <a href="https://x.com/kosisochukwuc11">
+    <img src="https://skillicons.dev/icons?i=x" height="45" alt="x"/>
   </a>
 </p>
 
@@ -58,7 +58,7 @@
 
 A short description of your first project.
 
-**Repository:** [Project One](https://github.com/yourusername/project-one)
+**Repository:** [Project One](https://github.com/kosinachi/project-one)
 
 ---
 
@@ -66,7 +66,7 @@ A short description of your first project.
 
 A short description of your second project.
 
-**Repository:** [Project Two](https://github.com/yourusername/project-two)
+**Repository:** [Project Two](https://github.com/kosinachi/project-two)
 
 ---
 
@@ -74,7 +74,7 @@ A short description of your second project.
 
 A short description of your third project.
 
-**Repository:** [Project Three](https://github.com/yourusername/project-three)
+**Repository:** [Project Three](https://github.com/kosinachi/project-three)
 
 ---
 
@@ -125,7 +125,7 @@ A short description of your third project.
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kosinachi&theme=github-compact" alt="GitHub Activity Graph"/>
 </p>
 
 ---
