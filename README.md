@@ -24,7 +24,7 @@
 * 🤝 I'm looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
 * 🎯 My goal is to become a **Cloud & DevOps Engineer**
-* 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at **[kosisochukwugodwinugochukwu@gmail.com](mailto:your-email@example.com)**
 
 ---
 
