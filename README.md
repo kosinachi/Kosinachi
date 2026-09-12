@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Kosisochukwu&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Software%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Kosisochukwu</h1>
+<h1 align="center">Hi 👋, I'm Kosisochukwu Ugochukwu</h1>
 
 <p align="center">
-  <strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
+  <strong>A Cloud and DevOps Engineer</strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 * 🌱 I'm currently learning **Cloud Computing, DevOps & Kubernetes**
 * 🤝 I'm looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
-* 🎯 My goal is to become a **Cloud & DevOps Engineer**
+* 🎯 My goal is to **build secure, scalable, and automated cloud solutions that help businesses deliver software faster and more reliably.**
 * 📫 Reach me at **[kosisochukwugodwinugochukwu@gmail.com](mailto:your-email@example.com)**
 
 ---
@@ -64,7 +64,9 @@ A short description of your first project.
 
 ### 💻 Project Two
 
-A short description of your second project.
+### 🌦️ Weather App
+
+A cloud-native .NET Web API containerized with Docker and deployed to **Azure Kubernetes Service (AKS)** using **Azure Container Registry (ACR)** and **GitHub Actions** for automated CI/CD. The project demonstrates modern DevOps practices including containerization, Kubernetes deployment, cloud infrastructure, and automated application delivery.
 
 **Repository:** [Project Two](https://github.com/kosinachi/project-two)
 
@@ -85,9 +87,9 @@ A short description of your third project.
 | Certification                                | Issuing Organization | Date     | Credential           |
 | -------------------------------------------- | -------------------- | -------- | -------------------- |
 | Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | [View Credential](#) |
-| AWS Cloud Practitioner                       | AWS                  | Feb 2026 | [View Credential](#) |
+| Multicloud Network Associate                 | Aviatrix             | Aug 2025 | [(https://www.credly.com/badges/edd3fce0-a216-45f4-a126-a702824406d9/linked_in_profile)(#)] |
 | Google Cloud Digital Leader                  | Google               | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Apr 2026 | [View Credential](#) |
+| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Aug 2025 | [(https://www.credly.com/badges/e8619cfe-e5da-4edb-8f64-de8f3d54772a/linked_in_profile)](#) |
 | *Add more here*                              |                      |          |                      |
 
 ---
