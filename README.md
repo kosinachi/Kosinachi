@@ -109,8 +109,6 @@ A short description of your third project.
 </p>
 
 
-> Make sure these image files actually exist inside an `images` folder in your repository.
-
 ---
 
 ## 📊 GitHub Stats
