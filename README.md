@@ -87,9 +87,9 @@ A short description of your third project.
 | Certification                                | Issuing Organization | Date     | Credential           |
 | -------------------------------------------- | -------------------- | -------- | -------------------- |
 | Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | [View Credential](#) |
-| Multicloud Network Associate                 | Aviatrix             | Aug 2025 | [https://www.credly.com/badges/edd3fce0-a216-45f4-a126-a702824406d9/linked_in_profile](#) |
+| Multicloud Network Associate                 | Aviatrix             | Aug 2025 | [View Credential](#) |
 | Google Cloud Digital Leader                  | Google               | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Aug 2025 | [https://www.credly.com/badges/e8619cfe-e5da-4edb-8f64-de8f3d54772a/linked_in_profile](#) |
+| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Aug 2025 | [View Credential](#) |
 | *Add more here*                              |                      |          |                      |
 
 ---
@@ -98,10 +98,16 @@ A short description of your third project.
 
 <p align="center">
   <img src="images/az900.png" width="120" alt="Microsoft Azure Fundamentals"/>
+
   <img src="images/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner"/>
-  <img src="images/kcna.png" width="120" alt="KCNA"/>
+
+  <a href="https://github.com/kosinachi/Kosinachi/blob/main/KCNA%20PHOTO_2025-08-28%20at%2017.02.23.jpeg">
+    <img src="images/kcna.png" width="120" alt="KCNA"/>
+  </a>
+
   <img src="images/google-cloud.png" width="120" alt="Google Cloud"/>
 </p>
+
 
 > Make sure these image files actually exist inside an `images` folder in your repository.
 
