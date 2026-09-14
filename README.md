@@ -87,7 +87,7 @@ A short description of your third project.
 | Certification                                | Issuing Organization | Date     | Credential           |
 | -------------------------------------------- | -------------------- | -------- | -------------------- |
 | Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | [View Credential](#) |
-| Multicloud Network Associate                 | Aviatrix             | Aug 2025 | [View Credential](#) |
+| Multicloud Network Associate                 | Aviatrix             | Aug 2025 | [View Credential](https://github.com/kosinachi/Kosinachi/blob/main/AVIATRIXMultiCloudNetwork.newlogo20250827-7-ri6xe8.pdf) |
 | Google Cloud Digital Leader                  | Google               | Mar 2026 | [View Credential](#) |
 | Kubernetes and Cloud Native Associate (KCNA) | KCNA                 | Aug 2025 | [View Credential](https://github.com/kosinachi/Kosinachi/blob/main/KCNA%20PHOTO_2025-08-28%20at%2017.02.23.jpeg) |
 | *Add more here*                              |                      |          |                      |
@@ -106,8 +106,11 @@ A short description of your third project.
   </a>
 
   <img src="images/google-cloud.png" width="120" alt="Google Cloud"/>
-</p>
 
+  <a href="https://github.com/kosinachi/Kosinachi/blob/main/AVIATRIXMultiCloudNetwork.newlogo20250827-7-ri6xe8.pdf">
+    <strong>Aviatrix Multicloud Network Associate</strong>
+  </a>
+</p>
 
 ---
 
