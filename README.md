@@ -24,7 +24,7 @@
 * 🤝 I'm looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
 * 🎯 My goal is to **build secure, scalable, and automated cloud solutions that help businesses deliver software faster and more reliably.**
-* 📫 Reach me at **[kosisochukwugodwinugochukwu@gmail.com](mailto:your-email@example.com)**
+* 📫 Reach me at **[kosisochukwugodwinugochukwu@gmail.com]**
 
 ---
 
@@ -89,7 +89,7 @@ A short description of your third project.
 | Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | [View Credential](#) |
 | Multicloud Network Associate                 | Aviatrix             | Aug 2025 | [View Credential](#) |
 | Google Cloud Digital Leader                  | Google               | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Aug 2025 | [View Credential](#) |
+| Kubernetes and Cloud Native Associate (KCNA) | KCNA                 | Aug 2025 | [View Credential](#) |
 | *Add more here*                              |                      |          |                      |
 
 ---
