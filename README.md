@@ -24,7 +24,7 @@
 * 🤝 I'm looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
 * 🎯 My goal is to **build secure, scalable, and automated cloud solutions that help businesses deliver software faster and more reliably.**
-* 📫 Reach me at **[kosisochukwugodwinugochukwu@gmail.com]**
+* 📫 Reach me at [kosisochukwugodwinugochukwu@gmail.com]
 
 ---
 
