@@ -89,7 +89,7 @@ A short description of your third project.
 | Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | [View Credential](#) |
 | Multicloud Network Associate                 | Aviatrix             | Aug 2025 | [View Credential](#) |
 | Google Cloud Digital Leader                  | Google               | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | KCNA                 | Aug 2025 | [View Credential](#) |
+| Kubernetes and Cloud Native Associate (KCNA) | KCNA                 | Aug 2025 | [View Credential](https://github.com/kosinachi/Kosinachi/blob/main/KCNA%20PHOTO_2025-08-28%20at%2017.02.23.jpeg) |
 | *Add more here*                              |                      |          |                      |
 
 ---
